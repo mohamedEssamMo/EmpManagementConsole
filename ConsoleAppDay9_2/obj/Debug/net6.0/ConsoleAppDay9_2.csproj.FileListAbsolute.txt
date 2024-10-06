@@ -1,0 +1,14 @@
+D:\ITI_.net\C#project\ConsoleAppDay9_1\ConsoleAppDay9_2\bin\Debug\net6.0\ConsoleAppDay9_2.exe
+D:\ITI_.net\C#project\ConsoleAppDay9_1\ConsoleAppDay9_2\bin\Debug\net6.0\ConsoleAppDay9_2.deps.json
+D:\ITI_.net\C#project\ConsoleAppDay9_1\ConsoleAppDay9_2\bin\Debug\net6.0\ConsoleAppDay9_2.runtimeconfig.json
+D:\ITI_.net\C#project\ConsoleAppDay9_1\ConsoleAppDay9_2\bin\Debug\net6.0\ConsoleAppDay9_2.dll
+D:\ITI_.net\C#project\ConsoleAppDay9_1\ConsoleAppDay9_2\bin\Debug\net6.0\ConsoleAppDay9_2.pdb
+D:\ITI_.net\C#project\ConsoleAppDay9_1\ConsoleAppDay9_2\obj\Debug\net6.0\ConsoleAppDay9_2.GeneratedMSBuildEditorConfig.editorconfig
+D:\ITI_.net\C#project\ConsoleAppDay9_1\ConsoleAppDay9_2\obj\Debug\net6.0\ConsoleAppDay9_2.AssemblyInfoInputs.cache
+D:\ITI_.net\C#project\ConsoleAppDay9_1\ConsoleAppDay9_2\obj\Debug\net6.0\ConsoleAppDay9_2.AssemblyInfo.cs
+D:\ITI_.net\C#project\ConsoleAppDay9_1\ConsoleAppDay9_2\obj\Debug\net6.0\ConsoleAppDay9_2.csproj.CoreCompileInputs.cache
+D:\ITI_.net\C#project\ConsoleAppDay9_1\ConsoleAppDay9_2\obj\Debug\net6.0\ConsoleAppDay9_2.dll
+D:\ITI_.net\C#project\ConsoleAppDay9_1\ConsoleAppDay9_2\obj\Debug\net6.0\refint\ConsoleAppDay9_2.dll
+D:\ITI_.net\C#project\ConsoleAppDay9_1\ConsoleAppDay9_2\obj\Debug\net6.0\ConsoleAppDay9_2.pdb
+D:\ITI_.net\C#project\ConsoleAppDay9_1\ConsoleAppDay9_2\obj\Debug\net6.0\ConsoleAppDay9_2.genruntimeconfig.cache
+D:\ITI_.net\C#project\ConsoleAppDay9_1\ConsoleAppDay9_2\obj\Debug\net6.0\ref\ConsoleAppDay9_2.dll
